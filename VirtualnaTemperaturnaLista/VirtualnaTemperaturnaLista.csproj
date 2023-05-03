@@ -19,7 +19,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Models\DTOs\" />
+    <Folder Include="Models\Login\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>
