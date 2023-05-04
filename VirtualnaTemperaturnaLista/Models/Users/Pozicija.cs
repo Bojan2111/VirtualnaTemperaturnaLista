@@ -1,6 +1,6 @@
-﻿namespace VirtualnaTemperaturnaLista.Models.TipoviParametra
+﻿namespace VirtualnaTemperaturnaLista.Models.Users
 {
-    public class TipLeka
+    public class Pozicija
     {
         public int Id { get; set; }
         public string Naziv { get; set; }
